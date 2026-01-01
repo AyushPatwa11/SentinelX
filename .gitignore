@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vscode/
+.env
+.DS_Store
+build/
+coverage/
+npm-debug.log
+yarn-error.log
+.vite/
